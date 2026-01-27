@@ -1,9 +1,9 @@
 ---
-title: CSAPP 第二章笔记
+title: CSAPP（二）
 date: 2026-01-20 17:00 +0800
 categories: [CSAPP, Binary]
 tags: [the basis of information]     # TAG names should always be lowercase
-description: 关于信息的表示和处理
+description: 信息的表示和处理
 math: true
 ---
 
